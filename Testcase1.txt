@@ -3,3 +3,6 @@ Welcome to software testing fundamental batch
 Welcome to cloud computing
 Welcome to selenium
 Welcome to Jmeter
+
+Welcome to ETL testing
+Welcome to RPA
